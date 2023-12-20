@@ -11,12 +11,10 @@ import SwiftUI
 
 @main
 struct MathsBuddyApp: App {
-    
-    @State var view1 = false
-    
+        
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            LaunchScreen()
         }
     }
 }
