@@ -11,7 +11,7 @@ import SwiftUI
 
 struct LaunchScreen: View {
     
-   
+   @State private var isPresented = false
     
     
     var body: some View {
@@ -28,7 +28,12 @@ struct LaunchScreen: View {
             Button("Lets Learn") {
                 
                 // load the next view
+                isPresented = true
                 
+                
+            }
+            .sheet(isPresented: $isPresented) {
+                view1()
             }
             
             
