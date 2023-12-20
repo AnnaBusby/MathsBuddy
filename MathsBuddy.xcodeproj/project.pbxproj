@@ -13,6 +13,7 @@
 		3913690B2B322C4F009BB91A /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3913690A2B322C4F009BB91A /* Preview Assets.xcassets */; };
 		39A0CD782B33569500559176 /* LaunchScreen.swift in Sources */ = {isa = PBXBuildFile; fileRef = 39A0CD772B33569500559176 /* LaunchScreen.swift */; };
 		39A0CD7A2B33596100559176 /* view1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 39A0CD792B33596100559176 /* view1.swift */; };
+		39C18EE52B337C6E00044C9F /* Maths.swift in Sources */ = {isa = PBXBuildFile; fileRef = 39C18EE42B337C6E00044C9F /* Maths.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -23,6 +24,7 @@
 		3913690A2B322C4F009BB91A /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		39A0CD772B33569500559176 /* LaunchScreen.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LaunchScreen.swift; sourceTree = "<group>"; };
 		39A0CD792B33596100559176 /* view1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = view1.swift; sourceTree = "<group>"; };
+		39C18EE42B337C6E00044C9F /* Maths.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Maths.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				391369052B322C4E009BB91A /* ContentView.swift */,
 				39A0CD772B33569500559176 /* LaunchScreen.swift */,
 				39A0CD792B33596100559176 /* view1.swift */,
+				39C18EE42B337C6E00044C9F /* Maths.swift */,
 				391369072B322C4F009BB91A /* Assets.xcassets */,
 				391369092B322C4F009BB91A /* Preview Content */,
 			);
@@ -146,6 +149,7 @@
 				391369062B322C4E009BB91A /* ContentView.swift in Sources */,
 				391369042B322C4E009BB91A /* MathsBuddyApp.swift in Sources */,
 				39A0CD7A2B33596100559176 /* view1.swift in Sources */,
+				39C18EE52B337C6E00044C9F /* Maths.swift in Sources */,
 				39A0CD782B33569500559176 /* LaunchScreen.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
